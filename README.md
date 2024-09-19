@@ -67,11 +67,14 @@ The script gathers and sends the following system details:
 
 ---
 
+
+
 ## Author
 
 - **Y2K (icmad_y2k)**
 
----
+![Screenshot 2024-09-20 at 12 43 25 am](https://github.com/user-attachments/assets/cb4f6a4d-366d-49d9-9798-ae7cfcdb05c5)
+
 
 ## License
 
