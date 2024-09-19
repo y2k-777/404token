@@ -63,13 +63,13 @@ The script gathers and sends the following system details:
 - Extracts and validates Discord tokens.
 - Sends valid tokens and system information to a Discord webhook.
 - Includes a notification to `@everyone` in the Discord channel when data is received.
+- Works on Macos, Linux and Windows (as long as python is installed. 
 
 ---
 
 ## Author
 
 - **Y2K (icmad_y2k)**
-- 404 Discord Token Logger
 
 ---
 
